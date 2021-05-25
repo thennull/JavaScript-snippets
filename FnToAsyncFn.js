@@ -1,4 +1,4 @@
-//  Wrap a funtion with a trusted promise making that function Async
+//  Wrap a funtion with a trustable promise making that function Async
 
 function sum(v1, v2){
   return(v1 + v2);
